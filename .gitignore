@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+backend/data/*.db
+backend/data/*.sqlite*
+backend/recordings/*.wav
+
+frontend/node_modules/
+frontend/dist/

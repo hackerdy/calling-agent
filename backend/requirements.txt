@@ -1,0 +1,7 @@
+fastapi>=0.116.0
+uvicorn[standard]>=0.35.0
+python-dotenv>=1.1.0
+pydantic>=2.11.0
+livekit-agents>=1.2.0
+livekit-plugins-elevenlabs>=1.2.0
+livekit-plugins-openai>=1.2.0
